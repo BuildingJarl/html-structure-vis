@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle html-structure-vis",
+        "command": "html-structure-vis:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "html-structure-vis",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "html-structure-vis:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
