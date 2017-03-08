@@ -12,7 +12,7 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "html-structure-vis",
+          "label": "HTML Structure Vis",
           "submenu": [
             {
               "label": "Toggle",
