@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "html-structure-vis:toggle"
   },
-  "repository": "https://github.com/atom/html-structure-vis",
+  "repository": "https://github.com/BuildingJarl/html-structure-vis.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
