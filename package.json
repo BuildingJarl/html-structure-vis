@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "d3": "^4.7.1",
-    "domhandler": "^2.3.0",
+    "domhandler": "github:fb55/domhandler",
     "htmlparser2": "^3.9.2"
   }
 }

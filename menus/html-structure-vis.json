@@ -2,7 +2,7 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle html-structure-vis",
+        "label": "Toggle HTML Structure Vis",
         "command": "html-structure-vis:toggle"
       }
     ]
